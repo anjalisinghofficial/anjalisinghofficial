@@ -8,6 +8,8 @@
 # 💫 About Me:
 🛠 I’m currently working on<br>Analyzing real-world datasets to identify trends, patterns, and actionable business insights.<br><br>🤝 I’m looking to collaborate on<br>Data analytics, business intelligence, and machine learning projects.<br><br>🧠 I’m looking for help with<br>Improving model accuracy and strengthening data storytelling for business impact.<br><br>🌱 I’m currently learning<br>Advanced SQL, Power BI, and machine learning techniques for predictive analytics.<br><br>💬 Ask me about<br>Data analysis, visualization, Python, and deriving insights from datasets.<br><br>⚡ Fun fact<br>I enjoy turning raw data into meaningful insights that help in better decision-making.
 
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f8561052d5519d5b219d3d02cdf56d0969d2cdab435e6739ba6b7cb26866f5fe/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anjalisinghofficial/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anjisingh933@gmail.com) 
 
