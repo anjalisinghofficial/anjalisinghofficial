@@ -8,7 +8,8 @@
 # 💫 About Me:
 🛠 I’m currently working on<br>Analyzing real-world datasets to identify trends, patterns, and actionable business insights.<br><br>🤝 I’m looking to collaborate on<br>Data analytics, business intelligence, and machine learning projects.<br><br>🧠 I’m looking for help with<br>Improving model accuracy and strengthening data storytelling for business impact.<br><br>🌱 I’m currently learning<br>Advanced SQL, Power BI, and machine learning techniques for predictive analytics.<br><br>💬 Ask me about<br>Data analysis, visualization, Python, and deriving insights from datasets.<br><br>⚡ Fun fact<br>I enjoy turning raw data into meaningful insights that help in better decision-making.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aamiiira&label=Profile%20views&color=0e75b6&style=flat" alt="aamiiira" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aamiiira&label=Profile%20views&color=0e75b6&style=flat" alt="anjalisinghofficial
+                   " /> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anjalisinghofficial/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anjisingh933@gmail.com) 
