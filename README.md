@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/https://cdnl.iconscout.com/lottie/premium/preview-watermark/the-girl-is-showing-the-various-graphs-from-the-laptop-animation-gif-download-10805552.mp4/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://github.com/anjalisinghofficial)
+[![MasterHead](https://user-images.githubusercontent.com/https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif)](https://github.com/anjalisinghofficial)
 
 <h1 align="center">Hi 👋, I'm Anjali Singh</h1>
 <h3 align="center">Real-World Problem Solver • AI Explorer •Insight Explorer• Lifelong Learner</h3>
