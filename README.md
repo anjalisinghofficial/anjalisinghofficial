@@ -1,7 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://github.com/DiwakarSingh16)
+[![MasterHead](https://user-images.githubusercontent.com/https://cdnl.iconscout.com/lottie/premium/preview-watermark/the-girl-is-showing-the-various-graphs-from-the-laptop-animation-gif-download-10805552.mp4/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://github.com/anjalisinghofficial)
 
 <h1 align="center">Hi 👋, I'm Anjali Singh</h1>
-<h3 align="center">Real-World Problem Solver • AI Explorer • Lifelong Learner</h3>
+<h3 align="center">Real-World Problem Solver • AI Explorer •Insight Explorer• Lifelong Learner</h3>
 
 ---
 
@@ -30,10 +30,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=anjalisinghofficial\&theme=dark\&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalisinghofficial\&theme=dark\&hide_border=false\&layout=compact)
 
-# 📊 GitHub Stats:
-
-![](https://nirzak-streak-stats.vercel.app/?user=DiwakarSingh16&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DiwakarSingh16&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DiwakarSingh16&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+![](https://github-profile-trophy.vercel.app/?username=anjalisinghofficial\&theme=dark\&no-frame=false\&no-bg=true\&margin-w=4)
+
