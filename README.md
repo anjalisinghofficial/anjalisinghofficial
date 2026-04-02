@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋, I'm Anjali Singh
 
-<!--
-**anjalisinghofficial/anjalisinghofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I analyze data to find useful insights and help in decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 Skills
+
+* Python
+* SQL
+* Data Visualization
+* Machine Learning
+
+---
+
+## 📁 Projects
+
+* Namma Yatri Analysis
+* Trader Behavior Insights
+* Bike Demand Prediction
+
+---
+
+## 📫 Contact
+
+* LinkedIn: (https://www.linkedin.com/in/anjalisinghofficial/)
+* Email: (anjisingh933@gmail.com)
+
